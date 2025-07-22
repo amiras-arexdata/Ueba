@@ -1,6 +1,6 @@
 [
   {
-    "AnomalyType": 0,
+    "AnomalyType": "FileEventSpike",
     "User": "arexstore",
     "DateTime": "2025-07-21T11:00:00",
     "Description": null,
@@ -19,7 +19,7 @@
         "PredictionSpike": [
           1,
           1,
-          0.581386147315829
+          0.5623151161687703
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
@@ -28,7 +28,7 @@
     }
   },
   {
-    "AnomalyType": 0,
+    "AnomalyType": "FileEventSpike",
     "User": "arexstore",
     "DateTime": "2025-07-21T11:00:00",
     "Description": null,
@@ -47,7 +47,7 @@
         "PredictionSpike": [
           1,
           1,
-          0.3242445855232924
+          0.3246505076981349
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
@@ -56,7 +56,7 @@
     }
   },
   {
-    "AnomalyType": 0,
+    "AnomalyType": "FileEventSpike",
     "User": "arexdatatest",
     "DateTime": "2025-07-21T08:00:00",
     "Description": null,
@@ -75,7 +75,7 @@
         "PredictionSpike": [
           1,
           1,
-          0.26294284162234666
+          0.2662276743685112
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
@@ -84,7 +84,7 @@
     }
   },
   {
-    "AnomalyType": 0,
+    "AnomalyType": "FileEventSpike",
     "User": "lab\\pustariz",
     "DateTime": "2025-07-21T12:00:00",
     "Description": null,
@@ -103,7 +103,7 @@
         "PredictionSpike": [
           1,
           1,
-          0.7957188471968577
+          0.7823744223421625
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
@@ -112,7 +112,7 @@
     }
   },
   {
-    "AnomalyType": 0,
+    "AnomalyType": "FileEventSpike",
     "User": "lab\\pustariz",
     "DateTime": "2025-07-21T12:00:00",
     "Description": null,
@@ -131,7 +131,7 @@
         "PredictionSpike": [
           1,
           1,
-          0.7332822500059221
+          0.7386910825396001
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
@@ -140,7 +140,7 @@
     }
   },
   {
-    "AnomalyType": 0,
+    "AnomalyType": "FileEventSpike",
     "User": "lab\\pustariz",
     "DateTime": "2025-07-21T12:00:00",
     "Description": null,
@@ -159,7 +159,7 @@
         "PredictionSpike": [
           1,
           1,
-          0.9891666743284799
+          0.9894153375300593
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
@@ -168,7 +168,7 @@
     }
   },
   {
-    "AnomalyType": 0,
+    "AnomalyType": "FileEventSpike",
     "User": "jullastres@dev.arexdata.com",
     "DateTime": "2025-07-21T08:00:00",
     "Description": null,
@@ -187,7 +187,7 @@
         "PredictionSpike": [
           1,
           1,
-          0.31521416109446926
+          0.3141845250740603
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
@@ -196,7 +196,91 @@
     }
   },
   {
-    "AnomalyType": 0,
+    "AnomalyType": "FileEventSpike",
+    "User": "lab\\jullastres",
+    "DateTime": "2025-07-22T07:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-22T07:00:00",
+        "Operations": {
+          "Create": 12,
+          "Update": 10,
+          "Delete": 5,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Create",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          1.0156975401868635
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": "FileEventSpike",
+    "User": "lab\\jullastres",
+    "DateTime": "2025-07-22T07:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-22T07:00:00",
+        "Operations": {
+          "Create": 12,
+          "Update": 10,
+          "Delete": 5,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Update",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.954419912140525
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": "FileEventSpike",
+    "User": "lab\\jullastres",
+    "DateTime": "2025-07-22T07:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-22T07:00:00",
+        "Operations": {
+          "Create": 12,
+          "Update": 10,
+          "Delete": 5,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Delete",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.4388261235585067
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": "FileEventSpike",
     "User": "pustariz\\practicas2",
     "DateTime": "2025-07-22T06:00:00",
     "Description": null,
@@ -214,17 +298,17 @@
       "Prediction": {
         "PredictionSpike": [
           1,
-          1,
-          1.0000000000000067
+          0.9986488939082696,
+          0.25057021681086755
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1
+        "Score": 0.9986488939082696
       }
     }
   },
   {
-    "AnomalyType": 0,
+    "AnomalyType": "FileEventSpike",
     "User": "pustariz\\practicas2",
     "DateTime": "2025-07-22T06:00:00",
     "Description": null,
@@ -242,124 +326,12 @@
       "Prediction": {
         "PredictionSpike": [
           1,
-          1,
-          0.9972515630535934
+          0.9609026878847102,
+          0.2579781297044537
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1
-      }
-    }
-  },
-  {
-    "AnomalyType": 0,
-    "User": "agordillo\\alex",
-    "DateTime": "2025-07-21T10:00:00",
-    "Description": null,
-    "Data": {
-      "Event": {
-        "DateTime": "2025-07-21T10:00:00",
-        "Operations": {
-          "Create": 6,
-          "Update": 6,
-          "Delete": 1,
-          "Renamed": 0
-        }
-      },
-      "Operation": "Create",
-      "Prediction": {
-        "PredictionSpike": [
-          1,
-          0.8066824654421193,
-          0.9808016710541827
-        ],
-        "PredictionAnomaly": null,
-        "IsAnomaly": true,
-        "Score": 0.8066824654421193
-      }
-    }
-  },
-  {
-    "AnomalyType": 0,
-    "User": "agordillo\\alex",
-    "DateTime": "2025-07-22T06:00:00",
-    "Description": null,
-    "Data": {
-      "Event": {
-        "DateTime": "2025-07-22T06:00:00",
-        "Operations": {
-          "Create": 1,
-          "Update": 5,
-          "Delete": 5,
-          "Renamed": 0
-        }
-      },
-      "Operation": "Delete",
-      "Prediction": {
-        "PredictionSpike": [
-          1,
-          1,
-          0.9896815553346053
-        ],
-        "PredictionAnomaly": null,
-        "IsAnomaly": true,
-        "Score": 1
-      }
-    }
-  },
-  {
-    "AnomalyType": 0,
-    "User": "mac-test.local\\arexdata",
-    "DateTime": "2025-07-21T11:00:00",
-    "Description": null,
-    "Data": {
-      "Event": {
-        "DateTime": "2025-07-21T11:00:00",
-        "Operations": {
-          "Create": 20,
-          "Update": 92,
-          "Delete": 7,
-          "Renamed": 0
-        }
-      },
-      "Operation": "Create",
-      "Prediction": {
-        "PredictionSpike": [
-          1,
-          1,
-          0.8896175755573004
-        ],
-        "PredictionAnomaly": null,
-        "IsAnomaly": true,
-        "Score": 1
-      }
-    }
-  },
-  {
-    "AnomalyType": 0,
-    "User": "mac-test.local\\arexdata",
-    "DateTime": "2025-07-21T11:00:00",
-    "Description": null,
-    "Data": {
-      "Event": {
-        "DateTime": "2025-07-21T11:00:00",
-        "Operations": {
-          "Create": 20,
-          "Update": 92,
-          "Delete": 7,
-          "Renamed": 0
-        }
-      },
-      "Operation": "Delete",
-      "Prediction": {
-        "PredictionSpike": [
-          1,
-          1,
-          0.7295753041259115
-        ],
-        "PredictionAnomaly": null,
-        "IsAnomaly": true,
-        "Score": 1
+        "Score": 0.9609026878847102
       }
     }
   }
