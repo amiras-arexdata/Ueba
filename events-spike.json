@@ -1,0 +1,366 @@
+[
+  {
+    "AnomalyType": 0,
+    "User": "arexstore",
+    "DateTime": "2025-07-21T11:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-21T11:00:00",
+        "Operations": {
+          "Create": 22,
+          "Update": 29,
+          "Delete": 0,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Create",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.581386147315829
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": 0,
+    "User": "arexstore",
+    "DateTime": "2025-07-21T11:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-21T11:00:00",
+        "Operations": {
+          "Create": 22,
+          "Update": 29,
+          "Delete": 0,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Update",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.3242445855232924
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": 0,
+    "User": "arexdatatest",
+    "DateTime": "2025-07-21T08:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-21T08:00:00",
+        "Operations": {
+          "Create": 5,
+          "Update": 0,
+          "Delete": 1,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Delete",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.26294284162234666
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": 0,
+    "User": "lab\\pustariz",
+    "DateTime": "2025-07-21T12:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-21T12:00:00",
+        "Operations": {
+          "Create": 8,
+          "Update": 8,
+          "Delete": 8,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Create",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.7957188471968577
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": 0,
+    "User": "lab\\pustariz",
+    "DateTime": "2025-07-21T12:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-21T12:00:00",
+        "Operations": {
+          "Create": 8,
+          "Update": 8,
+          "Delete": 8,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Update",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.7332822500059221
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": 0,
+    "User": "lab\\pustariz",
+    "DateTime": "2025-07-21T12:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-21T12:00:00",
+        "Operations": {
+          "Create": 8,
+          "Update": 8,
+          "Delete": 8,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Delete",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.9891666743284799
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": 0,
+    "User": "jullastres@dev.arexdata.com",
+    "DateTime": "2025-07-21T08:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-21T08:00:00",
+        "Operations": {
+          "Create": 0,
+          "Update": 7,
+          "Delete": 0,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Update",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.31521416109446926
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": 0,
+    "User": "pustariz\\practicas2",
+    "DateTime": "2025-07-22T06:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-22T06:00:00",
+        "Operations": {
+          "Create": 25,
+          "Update": 25,
+          "Delete": 0,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Create",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          1.0000000000000067
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": 0,
+    "User": "pustariz\\practicas2",
+    "DateTime": "2025-07-22T06:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-22T06:00:00",
+        "Operations": {
+          "Create": 25,
+          "Update": 25,
+          "Delete": 0,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Update",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.9972515630535934
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": 0,
+    "User": "agordillo\\alex",
+    "DateTime": "2025-07-21T10:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-21T10:00:00",
+        "Operations": {
+          "Create": 6,
+          "Update": 6,
+          "Delete": 1,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Create",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          0.8066824654421193,
+          0.9808016710541827
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 0.8066824654421193
+      }
+    }
+  },
+  {
+    "AnomalyType": 0,
+    "User": "agordillo\\alex",
+    "DateTime": "2025-07-22T06:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-22T06:00:00",
+        "Operations": {
+          "Create": 1,
+          "Update": 5,
+          "Delete": 5,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Delete",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.9896815553346053
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": 0,
+    "User": "mac-test.local\\arexdata",
+    "DateTime": "2025-07-21T11:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-21T11:00:00",
+        "Operations": {
+          "Create": 20,
+          "Update": 92,
+          "Delete": 7,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Create",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.8896175755573004
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  },
+  {
+    "AnomalyType": 0,
+    "User": "mac-test.local\\arexdata",
+    "DateTime": "2025-07-21T11:00:00",
+    "Description": null,
+    "Data": {
+      "Event": {
+        "DateTime": "2025-07-21T11:00:00",
+        "Operations": {
+          "Create": 20,
+          "Update": 92,
+          "Delete": 7,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Delete",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.7295753041259115
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1
+      }
+    }
+  }
+]
