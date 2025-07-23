@@ -1,34 +1,6 @@
 [
   {
     "AnomalyType": "FileEventSpike",
-    "User": "arexdatatest",
-    "DateTime": "2025-07-21T08:00:00",
-    "Description": "Op=Delete Events=1 Score=1,0000, PValue=0,2662",
-    "Data": {
-      "Event": {
-        "DateTime": "2025-07-21T08:00:00",
-        "Operations": {
-          "Create": 5,
-          "Update": 0,
-          "Delete": 1,
-          "Renamed": 0
-        }
-      },
-      "Operation": "Delete",
-      "Prediction": {
-        "PredictionSpike": [
-          1,
-          1,
-          0.2662276743685112
-        ],
-        "PredictionAnomaly": null,
-        "IsAnomaly": true,
-        "Score": 1
-      }
-    }
-  },
-  {
-    "AnomalyType": "FileEventSpike",
     "User": "arexstore",
     "DateTime": "2025-07-21T11:00:00",
     "Description": "Op=Create Events=22 Score=1,0000, PValue=0,5623",
@@ -160,34 +132,6 @@
           1,
           1,
           0.9894153375300593
-        ],
-        "PredictionAnomaly": null,
-        "IsAnomaly": true,
-        "Score": 1
-      }
-    }
-  },
-  {
-    "AnomalyType": "FileEventSpike",
-    "User": "jullastres@dev.arexdata.com",
-    "DateTime": "2025-07-21T08:00:00",
-    "Description": "Op=Update Events=7 Score=1,0000, PValue=0,3142",
-    "Data": {
-      "Event": {
-        "DateTime": "2025-07-21T08:00:00",
-        "Operations": {
-          "Create": 0,
-          "Update": 7,
-          "Delete": 0,
-          "Renamed": 0
-        }
-      },
-      "Operation": "Update",
-      "Prediction": {
-        "PredictionSpike": [
-          1,
-          1,
-          0.3141845250740603
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
