@@ -1,7 +1,7 @@
 [
   {
     "AnomalyType": "FileEventSpike",
-    "User": "arexstore",
+    "User": "arexstoree",
     "DateTime": "2025-07-21T11:00:00",
     "Description": null,
     "Data": {
