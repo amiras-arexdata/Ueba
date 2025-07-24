@@ -1,0 +1,219 @@
+[
+  {
+    "AnomalyType": "FileEventSpike",
+    "User": "lab\\pustariz",
+    "Begin": "2025-07-23T10:00:00",
+    "End": "2025-07-23T10:59:59",
+    "Description": "Excess Create events detected",
+    "Data": {
+      "Event": {
+        "Begin": "2025-07-23T10:00:00",
+        "End": "2025-07-23T10:59:59",
+        "Operations": {
+          "Create": 285,
+          "Update": 285,
+          "Delete": 275,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Create",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.9903778910064995
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1,
+        "PValue": 0.9903778910064995
+      }
+    }
+  },
+  {
+    "AnomalyType": "FileEventSpike",
+    "User": "lab\\pustariz",
+    "Begin": "2025-07-23T10:00:00",
+    "End": "2025-07-23T10:59:59",
+    "Description": "Excess Update events detected",
+    "Data": {
+      "Event": {
+        "Begin": "2025-07-23T10:00:00",
+        "End": "2025-07-23T10:59:59",
+        "Operations": {
+          "Create": 285,
+          "Update": 285,
+          "Delete": 275,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Update",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.990368876463169
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1,
+        "PValue": 0.990368876463169
+      }
+    }
+  },
+  {
+    "AnomalyType": "FileEventSpike",
+    "User": "lab\\pustariz",
+    "Begin": "2025-07-23T10:00:00",
+    "End": "2025-07-23T10:59:59",
+    "Description": "Excess Delete events detected",
+    "Data": {
+      "Event": {
+        "Begin": "2025-07-23T10:00:00",
+        "End": "2025-07-23T10:59:59",
+        "Operations": {
+          "Create": 285,
+          "Update": 285,
+          "Delete": 275,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Delete",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.9809123066839082
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1,
+        "PValue": 0.9809123066839082
+      }
+    }
+  },
+  {
+    "AnomalyType": "FileEventSpike",
+    "User": "desktop-p5c5ui6\\nasim",
+    "Begin": "2025-07-23T12:00:00",
+    "End": "2025-07-23T12:59:59",
+    "Description": "Excess Delete events detected",
+    "Data": {
+      "Event": {
+        "Begin": "2025-07-23T12:00:00",
+        "End": "2025-07-23T12:59:59",
+        "Operations": {
+          "Create": 47,
+          "Update": 47,
+          "Delete": 3018,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Delete",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.9759129999972581
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1,
+        "PValue": 0.9759129999972581
+      }
+    }
+  },
+  {
+    "AnomalyType": "FileEventSpike",
+    "User": "arexdatas-mac-mini.local\\arexdata",
+    "Begin": "2025-07-22T08:00:00",
+    "End": "2025-07-22T08:59:59",
+    "Description": "Excess Create events detected",
+    "Data": {
+      "Event": {
+        "Begin": "2025-07-22T08:00:00",
+        "End": "2025-07-22T08:59:59",
+        "Operations": {
+          "Create": 30,
+          "Update": 29,
+          "Delete": 20,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Create",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          0.928557474933623,
+          0.9988903428432115
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 0.928557474933623,
+        "PValue": 0.9988903428432115
+      }
+    }
+  },
+  {
+    "AnomalyType": "FileEventSpike",
+    "User": "arexdatas-mac-mini.local\\arexdata",
+    "Begin": "2025-07-22T08:00:00",
+    "End": "2025-07-22T08:59:59",
+    "Description": "Excess Delete events detected",
+    "Data": {
+      "Event": {
+        "Begin": "2025-07-22T08:00:00",
+        "End": "2025-07-22T08:59:59",
+        "Operations": {
+          "Create": 30,
+          "Update": 29,
+          "Delete": 20,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Delete",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          0.9999999999999861,
+          0.9999999999999998
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 0.9999999999999861,
+        "PValue": 0.9999999999999998
+      }
+    }
+  },
+  {
+    "AnomalyType": "FileEventSpike",
+    "User": "lab\\nakhter",
+    "Begin": "2025-07-23T12:00:00",
+    "End": "2025-07-23T12:59:59",
+    "Description": "Excess Delete events detected",
+    "Data": {
+      "Event": {
+        "Begin": "2025-07-23T12:00:00",
+        "End": "2025-07-23T12:59:59",
+        "Operations": {
+          "Create": 0,
+          "Update": 0,
+          "Delete": 165,
+          "Renamed": 0
+        }
+      },
+      "Operation": "Delete",
+      "Prediction": {
+        "PredictionSpike": [
+          1,
+          1,
+          0.9999999999999983
+        ],
+        "PredictionAnomaly": null,
+        "IsAnomaly": true,
+        "Score": 1,
+        "PValue": 0.9999999999999983
+      }
+    }
+  }
+]
