@@ -142,21 +142,5 @@
     "End": "2025-07-23T12:59:59",
     "Description": "Excess Delete events detected (165)",
     "Data": "Op=Delete Events=165 Score=1,0000 PValue=1,0000"
-  },
-  {
-    "AnomalyType": "FileEventSpike",
-    "User": "qa\\amiras",
-    "Begin": "2025-07-24T14:00:00",
-    "End": "2025-07-24T14:59:59.9999999",
-    "Description": "Excess Create events detected (100)",
-    "Data": "Op=Create Events=100 Score=1,0000 PValue=0,6187"
-  },
-  {
-    "AnomalyType": "FileEventSpike",
-    "User": "qa\\amiras",
-    "Begin": "2025-07-24T14:00:00",
-    "End": "2025-07-24T14:59:59.9999999",
-    "Description": "Excess Delete events detected (400)",
-    "Data": "Op=Delete Events=400 Score=1,0000 PValue=0,6315"
   }
 ]
