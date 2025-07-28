@@ -182,5 +182,13 @@
     "End": "2025-07-28T06:59:59.9999999",
     "Description": "Excess Delete events detected (15)",
     "Data": "Op=Delete Events=15 Score=1,0000 PValue=0,7463"
+  },
+  {
+    "AnomalyType": "FileEventSpike",
+    "User": "lab\\agordillo",
+    "Begin": "2025-07-28T07:00:00",
+    "End": "2025-07-28T07:59:59.9999999",
+    "Description": "Excess Update events detected (10)",
+    "Data": "Op=Update Events=10 Score=1,0000 PValue=0,6714"
   }
 ]
