@@ -190,5 +190,13 @@
     "End": "2025-07-28T07:59:59.9999999",
     "Description": "Excess Update events detected (10)",
     "Data": "Op=Update Events=10 Score=1,0000 PValue=0,6714"
+  },
+  {
+    "AnomalyType": "FileEventSpike",
+    "User": "jdoe@gw.arexdata.com",
+    "Begin": "2025-07-28T09:00:00",
+    "End": "2025-07-28T09:59:59.9999999",
+    "Description": "Excess Delete events detected (10)",
+    "Data": "Op=Delete Events=10 Score=1,0000 PValue=0,9893"
   }
 ]
