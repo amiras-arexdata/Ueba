@@ -1,6 +1,6 @@
 [
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "arexstore",
     "Begin": "2025-07-16T08:00:00",
     "End": "2025-07-16T08:59:59",
@@ -31,7 +31,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "nasim",
     "Begin": "2025-07-23T12:00:00",
     "End": "2025-07-23T12:59:59",
@@ -62,7 +62,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "jullastres@dev.arexdata.com",
     "Begin": "2025-07-17T08:00:00",
     "End": "2025-07-17T08:59:59",
@@ -93,7 +93,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "lab\\jullastres",
     "Begin": "2025-07-22T07:00:00",
     "End": "2025-07-22T07:59:59",
@@ -124,7 +124,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "agordillo@dev.arexdata.com",
     "Begin": "2025-07-18T12:00:00",
     "End": "2025-07-18T12:59:59",
@@ -155,7 +155,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "agordillo@dev.arexdata.com",
     "Begin": "2025-07-17T11:00:00",
     "End": "2025-07-17T11:59:59",
@@ -186,7 +186,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "nakhter@dev.arexdata.com",
     "Begin": "2025-07-23T12:00:00",
     "End": "2025-07-23T12:59:59",
@@ -217,7 +217,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "lab\\pustariz",
     "Begin": "2025-07-23T10:00:00",
     "End": "2025-07-23T10:59:59",
@@ -248,7 +248,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "lab\\pustariz",
     "Begin": "2025-07-23T10:00:00",
     "End": "2025-07-23T10:59:59",
@@ -279,7 +279,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "lab\\pustariz",
     "Begin": "2025-07-23T10:00:00",
     "End": "2025-07-23T10:59:59",
@@ -310,7 +310,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "desktop-p5c5ui6\\nasim",
     "Begin": "2025-07-16T10:00:00",
     "End": "2025-07-16T10:59:59",
@@ -341,7 +341,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "desktop-p5c5ui6\\nasim",
     "Begin": "2025-07-23T12:00:00",
     "End": "2025-07-23T12:59:59",
@@ -372,7 +372,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "qa\\amiras",
     "Begin": "2025-07-16T15:00:00",
     "End": "2025-07-16T15:59:59",
@@ -403,7 +403,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "qa\\amiras",
     "Begin": "2025-07-16T15:00:00",
     "End": "2025-07-16T15:59:59",
@@ -434,7 +434,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "pustariz\\practicas2",
     "Begin": "2025-07-22T06:00:00",
     "End": "2025-07-22T06:59:59",
@@ -465,7 +465,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "pustariz\\practicas2",
     "Begin": "2025-07-22T06:00:00",
     "End": "2025-07-22T06:59:59",
@@ -496,7 +496,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "mac-test.local\\arexdata",
     "Begin": "2025-07-21T11:00:00",
     "End": "2025-07-21T11:59:59",
@@ -527,7 +527,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "arexdatas-mac-mini.local\\arexdata",
     "Begin": "2025-07-22T08:00:00",
     "End": "2025-07-22T08:59:59",
@@ -558,7 +558,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "arexdatas-mac-mini.local\\arexdata",
     "Begin": "2025-07-22T08:00:00",
     "End": "2025-07-22T08:59:59",
@@ -589,7 +589,7 @@
     }
   },
   {
-    "AnomalyType": "FileEventSpike",
+    "AnomalyType": 0,
     "User": "lab\\nakhter",
     "Begin": "2025-07-23T12:00:00",
     "End": "2025-07-23T12:59:59",
