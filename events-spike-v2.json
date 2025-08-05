@@ -6,26 +6,27 @@
     "End": "2025-07-16T08:59:59",
     "Description": "Excess Update events detected (81)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-16T08:00:00",
         "End": "2025-07-16T08:59:59",
         "Operations": {
-          "Create": 1,
-          "Update": 81,
-          "Delete": 0,
-          "Renamed": 0
+          "Create": 1.0,
+          "Update": 81.0,
+          "Delete": 0.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Update",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.8724939148636501
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.8724939148636501
       }
     }
@@ -37,26 +38,27 @@
     "End": "2025-07-23T12:59:59",
     "Description": "Excess Create events detected (25)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-23T12:00:00",
         "End": "2025-07-23T12:59:59",
         "Operations": {
-          "Create": 25,
-          "Update": 0,
-          "Delete": 0,
-          "Renamed": 0
+          "Create": 25.0,
+          "Update": 0.0,
+          "Delete": 0.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Create",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.6266483528173518
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.6266483528173518
       }
     }
@@ -68,26 +70,27 @@
     "End": "2025-07-17T08:59:59",
     "Description": "Excess Update events detected (27)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-17T08:00:00",
         "End": "2025-07-17T08:59:59",
         "Operations": {
-          "Create": 0,
-          "Update": 27,
-          "Delete": 0,
-          "Renamed": 0
+          "Create": 0.0,
+          "Update": 27.0,
+          "Delete": 0.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Update",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.8460402190118408
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.8460402190118408
       }
     }
@@ -99,26 +102,27 @@
     "End": "2025-07-22T07:59:59",
     "Description": "Excess Create events detected (12)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-22T07:00:00",
         "End": "2025-07-22T07:59:59",
         "Operations": {
-          "Create": 12,
-          "Update": 10,
-          "Delete": 5,
-          "Renamed": 0
+          "Create": 12.0,
+          "Update": 10.0,
+          "Delete": 5.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Create",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.7883328352346758
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.7883328352346758
       }
     }
@@ -130,26 +134,27 @@
     "End": "2025-07-18T12:59:59",
     "Description": "Excess Update events detected (18)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-18T12:00:00",
         "End": "2025-07-18T12:59:59",
         "Operations": {
-          "Create": 0,
-          "Update": 18,
-          "Delete": 0,
-          "Renamed": 0
+          "Create": 0.0,
+          "Update": 18.0,
+          "Delete": 0.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Update",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.663585577267759
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.663585577267759
       }
     }
@@ -161,26 +166,27 @@
     "End": "2025-07-17T11:59:59",
     "Description": "Excess Delete events detected (32)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-17T11:00:00",
         "End": "2025-07-17T11:59:59",
         "Operations": {
-          "Create": 0,
-          "Update": 0,
-          "Delete": 32,
-          "Renamed": 0
+          "Create": 0.0,
+          "Update": 0.0,
+          "Delete": 32.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Delete",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.9024547077493204
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.9024547077493204
       }
     }
@@ -192,26 +198,27 @@
     "End": "2025-07-23T12:59:59",
     "Description": "Excess Create events detected (10)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-23T12:00:00",
         "End": "2025-07-23T12:59:59",
         "Operations": {
-          "Create": 10,
-          "Update": 0,
-          "Delete": 10,
-          "Renamed": 0
+          "Create": 10.0,
+          "Update": 0.0,
+          "Delete": 10.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Create",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.7466118108166938
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.7466118108166938
       }
     }
@@ -223,26 +230,27 @@
     "End": "2025-07-23T10:59:59",
     "Description": "Excess Create events detected (285)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-23T10:00:00",
         "End": "2025-07-23T10:59:59",
         "Operations": {
-          "Create": 285,
-          "Update": 285,
-          "Delete": 275,
-          "Renamed": 0
+          "Create": 285.0,
+          "Update": 285.0,
+          "Delete": 275.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Create",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.9903778910064995
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.9903778910064995
       }
     }
@@ -254,26 +262,27 @@
     "End": "2025-07-23T10:59:59",
     "Description": "Excess Update events detected (285)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-23T10:00:00",
         "End": "2025-07-23T10:59:59",
         "Operations": {
-          "Create": 285,
-          "Update": 285,
-          "Delete": 275,
-          "Renamed": 0
+          "Create": 285.0,
+          "Update": 285.0,
+          "Delete": 275.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Update",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.990368876463169
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.990368876463169
       }
     }
@@ -285,26 +294,27 @@
     "End": "2025-07-23T10:59:59",
     "Description": "Excess Delete events detected (275)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-23T10:00:00",
         "End": "2025-07-23T10:59:59",
         "Operations": {
-          "Create": 285,
-          "Update": 285,
-          "Delete": 275,
-          "Renamed": 0
+          "Create": 285.0,
+          "Update": 285.0,
+          "Delete": 275.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Delete",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.9809123066839082
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.9809123066839082
       }
     }
@@ -316,26 +326,27 @@
     "End": "2025-07-16T10:59:59",
     "Description": "Excess Create events detected (166)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-16T10:00:00",
         "End": "2025-07-16T10:59:59",
         "Operations": {
-          "Create": 166,
-          "Update": 169,
-          "Delete": 17,
-          "Renamed": 0
+          "Create": 166.0,
+          "Update": 169.0,
+          "Delete": 17.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Create",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.6874864152087532
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.6874864152087532
       }
     }
@@ -347,26 +358,27 @@
     "End": "2025-07-23T12:59:59",
     "Description": "Excess Delete events detected (3018)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-23T12:00:00",
         "End": "2025-07-23T12:59:59",
         "Operations": {
-          "Create": 47,
-          "Update": 47,
-          "Delete": 3018,
-          "Renamed": 0
+          "Create": 47.0,
+          "Update": 47.0,
+          "Delete": 3018.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Delete",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.9759129999972581
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.9759129999972581
       }
     }
@@ -378,26 +390,27 @@
     "End": "2025-07-16T15:59:59",
     "Description": "Excess Create events detected (127)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-16T15:00:00",
         "End": "2025-07-16T15:59:59",
         "Operations": {
-          "Create": 127,
-          "Update": 0,
-          "Delete": 500,
-          "Renamed": 0
+          "Create": 127.0,
+          "Update": 0.0,
+          "Delete": 500.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Create",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.999999999999974
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.999999999999974
       }
     }
@@ -409,26 +422,27 @@
     "End": "2025-07-16T15:59:59",
     "Description": "Excess Delete events detected (500)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-16T15:00:00",
         "End": "2025-07-16T15:59:59",
         "Operations": {
-          "Create": 127,
-          "Update": 0,
-          "Delete": 500,
-          "Renamed": 0
+          "Create": 127.0,
+          "Update": 0.0,
+          "Delete": 500.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Delete",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           1.0000000000000009
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 1.0000000000000009
       }
     }
@@ -440,26 +454,27 @@
     "End": "2025-07-22T06:59:59",
     "Description": "Excess Create events detected (25)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-22T06:00:00",
         "End": "2025-07-22T06:59:59",
         "Operations": {
-          "Create": 25,
-          "Update": 25,
-          "Delete": 0,
-          "Renamed": 0
+          "Create": 25.0,
+          "Update": 25.0,
+          "Delete": 0.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Create",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           1.0000000000000107
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 1.0000000000000107
       }
     }
@@ -471,26 +486,27 @@
     "End": "2025-07-22T06:59:59",
     "Description": "Excess Update events detected (25)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-22T06:00:00",
         "End": "2025-07-22T06:59:59",
         "Operations": {
-          "Create": 25,
-          "Update": 25,
-          "Delete": 0,
-          "Renamed": 0
+          "Create": 25.0,
+          "Update": 25.0,
+          "Delete": 0.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Update",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.9986165093458607
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.9986165093458607
       }
     }
@@ -502,26 +518,27 @@
     "End": "2025-07-21T11:59:59",
     "Description": "Excess Create events detected (20)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-21T11:00:00",
         "End": "2025-07-21T11:59:59",
         "Operations": {
-          "Create": 20,
-          "Update": 92,
-          "Delete": 7,
-          "Renamed": 0
+          "Create": 20.0,
+          "Update": 92.0,
+          "Delete": 7.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Create",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.910796712219971
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.910796712219971
       }
     }
@@ -533,20 +550,21 @@
     "End": "2025-07-22T08:59:59",
     "Description": "Excess Create events detected (30)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-22T08:00:00",
         "End": "2025-07-22T08:59:59",
         "Operations": {
-          "Create": 30,
-          "Update": 29,
-          "Delete": 20,
-          "Renamed": 0
+          "Create": 30.0,
+          "Update": 29.0,
+          "Delete": 20.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Create",
       "Prediction": {
         "PredictionSpike": [
-          1,
+          1.0,
           0.928557474933623,
           0.9988903428432115
         ],
@@ -564,20 +582,21 @@
     "End": "2025-07-22T08:59:59",
     "Description": "Excess Delete events detected (20)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-22T08:00:00",
         "End": "2025-07-22T08:59:59",
         "Operations": {
-          "Create": 30,
-          "Update": 29,
-          "Delete": 20,
-          "Renamed": 0
+          "Create": 30.0,
+          "Update": 29.0,
+          "Delete": 20.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Delete",
       "Prediction": {
         "PredictionSpike": [
-          1,
+          1.0,
           0.9999999999999861,
           0.9999999999999998
         ],
@@ -595,26 +614,27 @@
     "End": "2025-07-23T12:59:59",
     "Description": "Excess Delete events detected (165)",
     "Data": {
+      "$type": "Auditor.Shared.Dto.Ueba.EventSpikeDataDTO, Auditor.Shared",
       "Event": {
         "Begin": "2025-07-23T12:00:00",
         "End": "2025-07-23T12:59:59",
         "Operations": {
-          "Create": 0,
-          "Update": 0,
-          "Delete": 165,
-          "Renamed": 0
+          "Create": 0.0,
+          "Update": 0.0,
+          "Delete": 165.0,
+          "Renamed": 0.0
         }
       },
       "Operation": "Delete",
       "Prediction": {
         "PredictionSpike": [
-          1,
-          1,
+          1.0,
+          1.0,
           0.9999999999999983
         ],
         "PredictionAnomaly": null,
         "IsAnomaly": true,
-        "Score": 1,
+        "Score": 1.0,
         "PValue": 0.9999999999999983
       }
     }
